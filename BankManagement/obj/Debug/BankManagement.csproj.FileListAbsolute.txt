@@ -1,0 +1,13 @@
+E:\Programming\C#\BankManagement\BankManagement\bin\Debug\BankManagement.exe.config
+E:\Programming\C#\BankManagement\BankManagement\bin\Debug\BankManagement.exe
+E:\Programming\C#\BankManagement\BankManagement\bin\Debug\BankManagement.pdb
+E:\Programming\C#\BankManagement\BankManagement\obj\Debug\BankManagement.csprojResolveAssemblyReference.cache
+E:\Programming\C#\BankManagement\BankManagement\obj\Debug\BankManagement.exe
+E:\Programming\C#\BankManagement\BankManagement\obj\Debug\BankManagement.pdb
+C:\Users\Albertzgli\Desktop\BankManagement\BankManagement\obj\Debug\BankManagement.csprojAssemblyReference.cache
+C:\Users\Albertzgli\Desktop\BankManagement\BankManagement\obj\Debug\BankManagement.csproj.CoreCompileInputs.cache
+C:\Users\Albertzgli\Desktop\BankManagement\BankManagement\obj\Debug\BankManagement.exe
+C:\Users\Albertzgli\Desktop\BankManagement\BankManagement\obj\Debug\BankManagement.pdb
+C:\Users\Albertzgli\Desktop\BankManagement\BankManagement\bin\Debug\BankManagement.exe.config
+C:\Users\Albertzgli\Desktop\BankManagement\BankManagement\bin\Debug\BankManagement.exe
+C:\Users\Albertzgli\Desktop\BankManagement\BankManagement\bin\Debug\BankManagement.pdb
